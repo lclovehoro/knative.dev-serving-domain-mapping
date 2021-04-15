@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping@sha256:fe908979157875e8f961e5b01a6e8ffa99b82afab15e711f748c3d0319d7b58f
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping@sha256:2253b4d5d42853a8e5d88c5fe7ea44d9f59f42ee4e4a4144c7d68df850362cd4
 MAINTAINER horoscope.liu@gmail.com
